@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 鱼缸换水练习记录工具
 
-You can use the [editor on GitHub](https://github.com/beni520/TankChangingWaterPracticeRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+鱼缸里的水需要经常换新鲜的水，并保持鱼缸清洁干净，鱼儿才能养得好。但是鱼缸换水也是有技巧和需要练习的。不恰单的换水反而会起到不好的效果。我们可以记录每次计划换水的时间，实际换水的时间，以及鱼的习性和生活特点等信息。我们可以将自己在练习过程中的心得体会和感受记录下来，帮助我们更好的了解鱼缸换水的技巧。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/TankChangingWaterPracticeRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
